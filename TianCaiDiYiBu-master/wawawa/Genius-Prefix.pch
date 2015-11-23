@@ -1,0 +1,40 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+//获取物理屏幕的尺寸
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+
+
+#define IS_SEVEN ([[[UIDevice currentDevice] systemVersion] floatValue] >=7.0)
+#define IS_IPHONE5  ([UIScreen mainScreen].bounds.size.height == 568)
+#define SCREEN_FRAME (CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width, [UIScreen mainScreen].bounds.size.height))
+#endif
+
+
+
+#define DMPUBLISHERID        @"56OJwEjYuNCBEghI7M"
+#define DMPLCAEMENTID_SPLASH @"16TLuV6aApvQ1NU0ATXoch-k"
+
+#import <BmobSDK/Bmob.h>
+#import "UIViewController+HUD.h"
+
+#import "BOADBannerView.h"
+
+#define ADS 1
+#import "BmobUtil.h"
+
+
+

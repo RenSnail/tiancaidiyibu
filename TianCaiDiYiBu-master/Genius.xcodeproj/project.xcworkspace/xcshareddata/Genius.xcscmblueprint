@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B17876321F9FE58582E76C4CCAEB6A1FEDBA4CA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "555e3ec9-eaff-41d4-b2c8-81d4c2718d6d++2546" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B17876321F9FE58582E76C4CCAEB6A1FEDBA4CA7" : 0,
+    "555e3ec9-eaff-41d4-b2c8-81d4c2718d6d++2546" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7CBD8390-9AE9-4193-B904-BF0A761FBBA1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B17876321F9FE58582E76C4CCAEB6A1FEDBA4CA7" : "SiteArticle\/",
+    "555e3ec9-eaff-41d4-b2c8-81d4c2718d6d++2546" : "SiteArticle\/%E5%88%9B%E4%B8%9A\/photo\/%E6%B6%88%E6%81%AF\/TianCaiDiYiBu-master\/Lib\/MBProgressHUD\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Genius",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "创业\/photo\/消息\/TianCaiDiYiBu-master\/Genius.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.dict.cn:3690\/svn\/repos",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "555e3ec9-eaff-41d4-b2c8-81d4c2718d6d++2546"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/coding.net\/u\/worldligang\/p\/SiteArticle",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B17876321F9FE58582E76C4CCAEB6A1FEDBA4CA7"
+    }
+  ]
+}
